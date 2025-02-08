@@ -1,5 +1,7 @@
 package com.hht;
 
+import com.hht.singleton.DataBaseConnector;
+
 public class Main {
 
     public static void main(String[] args) {

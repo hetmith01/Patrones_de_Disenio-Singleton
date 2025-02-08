@@ -1,4 +1,4 @@
-package com.hht;
+package com.hht.singleton;
 
 
 /*
